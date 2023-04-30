@@ -13,3 +13,9 @@ int valor2 = valor += valor1;
 
 Console.ReadKey();
 
+
+
+
+
+
+//https://www.devmedia.com.br/tipos-de-operadores-do-csharp/18873
