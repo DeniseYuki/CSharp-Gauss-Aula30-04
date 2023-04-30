@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace projetocarro
-{
-    public class Carro
+namespace projetocarro { 
+
+    public class Motor
     {
         public string modelo;
-        public int ano;
-        public float km;
+        public string cabecote;
+        public List<string> list;
+
+
     }
 }
