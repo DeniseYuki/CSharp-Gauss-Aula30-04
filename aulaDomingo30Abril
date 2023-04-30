@@ -1,0 +1,15 @@
+using System.Collections.Specialized;
+using System.ComponentModel.DataAnnotations;
+using System.Net.Mail;
+using System.Transactions;
+
+int valor = 10;
+int valor1 = 3;
+
+int valor2 = valor += valor1;
+// atalho ALT + SHIFT PARA ALTERAR VARIAS LINHAS
+
+
+
+Console.ReadKey();
+
