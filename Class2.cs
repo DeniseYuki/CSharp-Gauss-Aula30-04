@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace projetocarro { 
+namespace projetocarro{
 
     public class Motor
     {
